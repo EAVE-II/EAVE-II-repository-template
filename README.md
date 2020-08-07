@@ -1,5 +1,5 @@
 # EAVE II Analysis Repository
-## [Insert Full title here]  
+## [Insert full title here]  
 
 ### Paper Details
 > **Short title:** [Insert short title of paper here]
