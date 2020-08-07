@@ -1,7 +1,7 @@
 ######################################################################
-## Title: Full title of paper
-## Short title: Short title of paper (if applicable)
-## DOI: DOI of published paper
-## Code author: Lead analyst name <Lead analyst email>
-## Description: Quick description on the code (e.g. Analysis code, data cleansing code)
+## Title: [Insert full title of paper]
+## Short title: [Insert short title of paper (if applicable) here]
+## DOI: [Insert DOI of paper here]
+## Code author: [Insert lead analyst name <lead analyst email> here]
+## Description: [Insert quick description on the code (e.g. Analysis code, data cleansing code) here]
 ######################################################################
